@@ -39,8 +39,8 @@ Deliver/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/ML-HW1-2025.git
-cd ML-HW1-2025
+git clone https://github.com/IaTsai/ML-HW1.git
+cd ML-HW1
 
 # Install dependencies
 pip install numpy matplotlib
